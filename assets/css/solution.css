@@ -1,0 +1,72 @@
+/* Services Section
+--------------------------------*/
+
+#solution {
+  background: #fff;
+  background-size: cover;
+  padding: 60px 0 0 0;
+}
+
+#solution .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#solution .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #5b8c2a;
+}
+
+#solution .icon a {
+  display: inline-block;
+}
+
+#solution .icon i {
+  color: #fff;
+  font-size: 34px;
+}
+
+#solution .box:hover .icon {
+  background: #fff;
+  border: 2px solid #5b8c2a;
+}
+
+#solution .box:hover .icon i {
+  color: #5b8c2a;
+}
+
+#solution .box:hover .icon a {
+  color: #5b8c2a;
+}
+
+#solution .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  color: #111;
+}
+
+
+#solution .description {
+  font-size: 14px;
+  line-height: 24px;
+  color: #666666;
+}

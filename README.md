@@ -1,2 +1,1 @@
-# trash-for-trade.com
-Organization Website
+# trashfortrade.com
