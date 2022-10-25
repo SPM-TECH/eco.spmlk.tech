@@ -19,22 +19,8 @@
   <title>Trash For Trade</title>
 
   <meta content="" name="keywords">
-  <meta name="title" content="Trash For Trade | Plastic upcycling social enterprise | Plastic recycling social enterprise |
-  Plastic upcycling | Plastic recycling | Plastic pollution | Plastic upcycling startup ideas |
-  Plastic recycling startup ideas | Plastic recycling startup idea | Plastic upcycling startup idea |
-  Recycled plastics Srilanka | Recycled plastic Srilanka | Upcycled plastics | Upcycled plastic | Plastic solution |
-  Plastic pollution Srilanka | Plastic segregation | Plastic recycling machines |  Plastic recycling using shredder machine |
-  Plastic recycling using 3D printing Srilanka | Plastic upcycling Srilanka | Plastic recycling Srilanka |
-  Plastic upcycling Batticaloa | Plastic recycling Batticaloa | Recycled plastics Batticaloa | Recycled plastic Batticaloa |
-  Upcycled plastics Batticaloa | Upcycled plastic Batticaloa | Plastic recycling centre Batticaloa |
-  Plastic upcycling centre Batticaloa | Plastic upcycling centre Srilanka | Plastic recycling centre Srilanka |
-  Trash For Trade Batticaloa | Trash For Trade Srilanka | Trash For Trade Kallady | Recycling plastic bottles Srilanka |
-  Recycling plastic bags Srilanka | Recyclable plastics Srilanka | Stop plastic pollution Srilanka | Save ocean from plastic Srilanka |
-  Recycling plastic waste Srilanka | Plastic free ocean Srilanka ">
-  <meta name="description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process,
-  Collecting plastic waste, Shredding plastic, Recycling plastic waste, Upcycling plastic waste, Stop plastic pollution Srilanka, Stop plastic pollution,
-  Recycling plastic Srilanka, Recycling PET plastic Srilanka, Recycling HDPE plastic Srilanka, Recycling PVC plastic Srilanka, Recycling LDPE plastic Srilanka,
-  Recycling polythene plastic Srilanka, Recycling polystyrene plastic Srilanka, Recycling thermo plastic Srilanka, Recycling plastic toys Srilanka, Recycling plastic bottles Srilanka">
+  <meta name="title" content="">
+  <meta name="description" content="">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
