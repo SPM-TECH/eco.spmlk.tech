@@ -97,7 +97,7 @@
         <h3>SquareHub</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-          Trade for Trash has always been an enthusiastic bunch of dreamers who have taken upon themselves to make a change in Sri Lanka. As one of the teams who were under the wing of our incubation, SquareHub had the the privilege of witnessing this team's potential and their growth in such a small time. We wish our very best for the team in their future endeavors!
+          SPM has always been an enthusiastic bunch of dreamers who have taken upon themselves to make a change in Sri Lanka. As one of the teams who were under the wing of our incubation, SquareHub had the the privilege of witnessing this team's potential and their growth in such a small time. We wish our very best for the team in their future endeavors!
           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
         </p>
       </div>
@@ -107,7 +107,7 @@
         <h3>UNDP Team</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-          Trash for Trade is one of the commited teams who got selected to the Incubation Support Phase of HackaDev National Youth Social Innovation Challenge 2019. Out of the 12 teams being incubated from the 2019 cohort, Trash for Trade brought a unique idea to save the planet while supporting the plastic recycling process. The team consists of a bunch of young individuals from Uva Wellassa University and a few active young innovators from Batticaloa. Despite of the challenge of different members coming from different areas of the country,  Trash for Trade sets an example for how a team can function together to contribute to the Sustainable Developement Goals as responsible youth. HackaDev programme of United Nations Development Programme is really proud ot see the progress of Trash for Trade throughout the last couple of months through the incubation programme, and wish them good luck to contribute more and more to the society through protecting the environmen
+         SPM is one of the commited teams who got selected to the Incubation Support Phase of HackaDev National Youth Social Innovation Challenge 2019. Out of the 12 teams being incubated from the 2019 cohort, SPM brought a unique idea to save the planet while supporting the plastic recycling process. The team consists of a bunch of young individuals from Uva Wellassa University and a few active young innovators from Batticaloa. Despite of the challenge of different members coming from different areas of the country,  SPM sets an example for how a team can function together to contribute to the Sustainable Developement Goals as responsible youth. HackaDev programme of United Nations Development Programme is really proud ot see the progress of SPM throughout the last couple of months through the incubation programme, and wish them good luck to contribute more and more to the society through protecting the environmen
           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
         </p>
       </div>
