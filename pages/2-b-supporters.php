@@ -1,5 +1,5 @@
 <!-- ======= Supporters Section ======= -->
-  <div id="supporters" class="supporters section-bg">
+  <!-- <div id="supporters" class="supporters section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
                 <h2>Supporters</h2>
@@ -128,5 +128,5 @@
       </div>
 
     </div>
-  </div>
+  </div> -->
   <!-- End Supporters Section -->

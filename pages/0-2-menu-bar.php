@@ -14,15 +14,15 @@
         <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a>
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
-            <li><a href="2-0-about.php#supporters">Supporters</a></li>
-            <li><a href="2-0-about.php#awards">Awards</a></li>
+            <!-- <li><a href="2-0-about.php#supporters">Supporters</a></li> -->
+            <!-- <li><a href="2-0-about.php#awards">Awards</a></li> -->
             <li><a href="2-0-about.php#partners">Partners</a></li>
             <li><a href="2-0-about.php#community">Community</a></li>
           </ul>
         </li>
         <li><a href="1-0-index.php#solution">Features</a></li>
         <li><a href="1-0-index.php#service">Services</a></li>
-        <li><a href="1-0-index.php#blog">Blog</a></li>
+        <!-- <li><a href="1-0-index.php#blog">Blog</a></li> -->
         <li><a href="1-0-index.php#contact">Contact Us</a></div></li>
       </ul>
     </nav>

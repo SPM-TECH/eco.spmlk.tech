@@ -7,6 +7,20 @@
     </div>
 
     <div class="row">
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+        <div class="member">
+          <div class="member-img">
+            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-abi.jpg" class="img-fluid" alt="">
+            <div class="social">
+            <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Abitharani Jeyachandran</h4>
+            <span><br>Co-founder<br>Chief Executive Officer</span>
+          </div>
+        </div>
+      </div>
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
@@ -18,7 +32,7 @@
           </div>
           <div class="member-info">
             <h4>Jayanthan Amalanathan</h4>
-            <span><br>Co-founder<br>Chief Executive Officer</span>
+            <span><br>Co-founder<br>Chief Techical Officer</span>
           </div>
         </div>
       </div>
@@ -38,20 +52,7 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-        <div class="member" data-aos="fade-up" data-aos-delay="100">
-          <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-shanjeevan.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="https://www.linkedin.com/in/shanjeevan-amalanathan/"><i class="fa fa-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Shanjeevan Amalanathan</h4>
-            <span><br>Co-founder<br>Director of Operations</span>
-          </div>
-        </div>
-      </div>
+      
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
@@ -72,22 +73,22 @@
 
     </div>
 
-    <div class="row">
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-        <div class="member">
+    <!-- <div class="row">
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-abi.jpg" class="img-fluid" alt="">
+            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-shanjeevan.jpg" class="img-fluid" alt="">
             <div class="social">
-            <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/"><i class="fa fa-linkedin"></i></a>
+              <a href="https://www.linkedin.com/in/shanjeevan-amalanathan/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>Abitharani Jeyachandran</h4>
-            <span><br>Co-founder<br>Head of Digital Marketing</span>
+            <h4>Shanjeevan Amalanathan</h4>
+            <span><br>Co-founder<br>Director of Operations</span>
           </div>
         </div>
       </div>
+      
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
         <div class="member">
@@ -136,7 +137,7 @@
         </div>
       </div>
 
-    </div>
+    </div> -->
 
   </div>
 </section>

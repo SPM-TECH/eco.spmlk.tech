@@ -8,7 +8,7 @@
     <div class="row about-container">
 
       <div class="col-lg-6 content order-lg-1 order-2">
-        <p>Trash for Trade is a <b><span style="color:#5c8b2a">Plastic Upcycling Social Enterprise</span></b>.It is a social innovation idea developed from an open-source community, ‘Precious Plastic’ with the support of DreamSpace Academy. We have taken upon this initiative using the upcycling machinery our team has built.</p>
+        <p>SPM is a <b><span style="color:#5c8b2a">Plastic Upcycling Social Enterprise</span></b>.It is a social innovation idea developed from an open-source community, ‘Precious Plastic’ with the support of DreamSpace Academy. We have taken upon this initiative using the upcycling machinery our team has built.</p>
         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
           <h4 class="title"><a href="">Vision</a></h4>
           <p class="description">A future free from plastic pollution</p>
@@ -16,7 +16,7 @@
 
         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
           <h4 class="title"><a href="">Mission</a></h4>
-          <p class="description">Trash for Trade community provides innovative, economic, efficient, reliable, eco-friendly upcycling technology to Sri Lanka along with spreading awareness about its environmental and economic benefits.</p>
+          <p class="description">SPM community provides innovative, economic, efficient, reliable, eco-friendly upcycling technology to Sri Lanka along with spreading awareness about its environmental and economic benefits.</p>
         </div>
 
         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">

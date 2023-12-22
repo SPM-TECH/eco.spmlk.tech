@@ -16,7 +16,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
    <!-- Primary Meta Tags -->
-  <title>Trash For Trade</title>
+  <title>SPM</title>
 
   <meta content="" name="keywords">
   <meta name="title" content="">

@@ -4,7 +4,7 @@
 <?php include('1-b-about-us.php'); ?>
 <?php include('1-c-solution.php'); ?>
 <?php include('1-d-services.php'); ?>
-<?php include('1-e-blog.php'); ?>
+<?php include('1-e-blog.php'); ?> 
 <?php include('1-f-contact.php'); ?>
 </div>
 <?php include('3-0-footer.php'); ?>

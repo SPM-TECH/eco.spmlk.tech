@@ -1,5 +1,5 @@
 <!-- ======= Awards Section ======= -->
-<div id="awards" class="awards section-bg">
+<div id="team" class="awards section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
               <h2>Awards</h2>

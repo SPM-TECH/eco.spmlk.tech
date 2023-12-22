@@ -11,7 +11,8 @@
           <div class="info-box mb-4">
             <i class="fa fa-map-marker"></i>
             <h3>Address</h3>
-            <p>372/2, Government quarters road, Kallady, Batticaloa,<br>30000, Srilanka.</p>
+            <p>No: 57 Lloyd's Ave,</p>
+             <p> Batticaloa 30000, Sri Lanka.</p>
           </div>
         </div>
 
@@ -19,7 +20,7 @@
           <div class="info-box  mb-4">
             <i class="fa fa-envelope"></i>
             <h3>Email</h3>
-            <p>trashfortrade@gmail.com</p><br>
+            <p>contact@spmlk.tech</p><br>
           </div>
         </div>
 
@@ -27,8 +28,8 @@
           <div class="info-box  mb-4">
             <i class="fa fa-phone"></i>
             <h3>Phone</h3>
-            <p>+94766646404</p>
             <p>+94652226302</p>
+            <p>+94740164545</p>
           </div>
         </div>
 
