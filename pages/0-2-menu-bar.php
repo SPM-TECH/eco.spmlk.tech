@@ -3,7 +3,7 @@
   <div class="container">
 
     <div id="logo" class="pull-left">
-      <a href="1-0-index.php"><img src="../media\images\navigation-bar-logo-trashfortrade.png" alt=""></a>
+      <a href="1-0-index.php"><img src="../media/images/logo-01.png" alt=""></a>
 
       <!-- ======= Navigation Bar ======= -->
     </div>

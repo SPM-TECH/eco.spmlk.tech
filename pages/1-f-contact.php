@@ -39,7 +39,7 @@
 
         <div class="col-lg-6 ">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d988.4260972049717!2d81.7106176291911!3d7.714833999652438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afacd2f95e12af3%3A0xbcee82236f1337cc!2sTrash%20for%20Trade!5e0!3m2!1sen!2slk!4v1602701178866!5m2!1sen!2slk"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15814.815711823976!2d81.7093487!3d7.7148833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2578ca272c34c6a7!2sEMD%20Labs!5e0!3m2!1sen!2slk!4v1673260077571!5m2!1sen!2slk"
             width="100%" height="365" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
 

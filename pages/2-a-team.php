@@ -10,9 +10,9 @@
     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
         <div class="member">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-abi.jpg" class="img-fluid" alt="">
+            <img src="../media/images/team-trash-for-trade/Abi.jpg" class="img-fluid" alt="">
             <div class="social">
-            <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/"><i class="fa fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/abitharani-jeyachandran/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -25,7 +25,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-jayanthan.jpg" class="img-fluid" alt="">
+            <img src="../media/images/team-trash-for-trade/jaya.jpg" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.linkedin.com/in/jayanthan-amalanathan/"><i class="fa fa-linkedin"></i></a>
             </div>
@@ -40,14 +40,14 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-aravinth.jpg" class="img-fluid" alt="">
+            <img src="../media/images/team-trash-for-trade/Anu.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="https://www.linkedin.com/in/aravinthpanch/"><i class="fa fa-linkedin"></i></a>
+              <a href="https://www.linkedin.com/in/anushanth-kulanthaivadivel/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>Aravinth Panch</h4>
-            <span><br>Co-founder<br>Chief Techical Officer</span>
+            <h4>Anushanth Kulanthaivadivel</h4>
+            <span><br>Co-founder<br>Chief Finance Officer</span>
           </div>
         </div>
       </div>
@@ -57,13 +57,13 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-chandran.jpg" class="img-fluid" alt="">
+            <img src="../media/images/team-trash-for-trade/jino.jpg" class="img-fluid" alt="">
             <div class="social">
-            <a href="https://www.linkedin.com/in/kirushnachandran-chanthiralingam-a016221b4/"><i class="fa fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/jino-shanth-065b841b9/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
+            <h4>Jino Shanth</h4>
             <span>Technical Officer</span>
           </div>
         </div>

@@ -31,7 +31,7 @@
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #5b8c2a;
+  background: #1EB26B;
 }
 
 #solution .icon a {
@@ -45,15 +45,15 @@
 
 #solution .box:hover .icon {
   background: #fff;
-  border: 2px solid #5b8c2a;
+  border: 2px solid #1EB26B;
 }
 
 #solution .box:hover .icon i {
-  color: #5b8c2a;
+  color: #1EB26B;
 }
 
 #solution .box:hover .icon a {
-  color: #5b8c2a;
+  color: #1EB26B;
 }
 
 #solution .title {
