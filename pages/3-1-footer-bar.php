@@ -8,7 +8,7 @@
 
   <div class="container">
     <div class="copyright">
-      <?php echo date('Y'); ?> &copy; Copyright Reserved By <strong>SPM</strong>.
+    <p>Copyright © 2023 SPM ECO </br> All Rights Reserved | Developed by <a href="https://spmlk.tech/"> SPM </a></p>
       
     </div>
     <div class="credits">
