@@ -117,7 +117,7 @@
         <div class="member-img">
           <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-dreamspace-academy.jpg" class="img-fluid" class="img-fluid" alt="">
           <div class="social">
-            <a href="https://dreamspace.academy/pages/1-index.php"><i class="fa fa-chrome"></i></a>
+            <a href="https://dreamspace.academy/pages/1-0-index.php"><i class="fa fa-chrome"></i></a>
           </div>
         </div>
         <div class="member-info">

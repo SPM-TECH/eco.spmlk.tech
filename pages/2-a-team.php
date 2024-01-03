@@ -46,7 +46,7 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Anushanth Kulanthaivadivel</h4>
+            <h4>Anushanth </h4>
             <span><br>Co-founder<br>Chief Finance Officer</span>
           </div>
         </div>
@@ -64,7 +64,7 @@
           </div>
           <div class="member-info">
             <h4>Jino Shanth</h4>
-            <span>Technical Officer</span>
+            <span><br>Co-founder<br>hief  Program Officer</span>
           </div>
         </div>
       </div>
