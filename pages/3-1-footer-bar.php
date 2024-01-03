@@ -8,7 +8,8 @@
 
   <div class="container">
     <div class="copyright">
-      <?php echo date('Y'); ?> &copy; Copyright Reserved by <strong>SPM</strong>.
+      <?php echo date('Y'); ?> &copy; Copyright Reserved By <strong>SPM</strong>.
+      
     </div>
     <div class="credits">
       <!-- Co-created by <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/" target="_blank">Abitharani.J</a> & <a href="https://www.linkedin.com/in/jayanthan-amalanathan/" target="_blank">Jayanthan.A</a> -->
