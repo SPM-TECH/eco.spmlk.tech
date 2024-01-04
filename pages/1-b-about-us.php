@@ -9,7 +9,7 @@
     <div class="row about-container">
 
       <div class="col-lg-6 content order-lg-1 order-2">
-        <p>SPM is a <b><span style="color:#5c8b2a">Plastic Upcycling Social Enterprise</span></b>.It is a social innovation idea developed from an open-source community, ‘Precious Plastic’ with the support of DreamSpace Academy. We have taken upon this initiative using the upcycling machinery our team has built.</p>
+        <p>SPM is a <b><span style="color:#2dca98">Plastic Upcycling Social Enterprise</span></b>.It is a social innovation idea developed from an open-source community, ‘Precious Plastic’ with the support of DreamSpace Academy. We have taken upon this initiative using the upcycling machinery our team has built.</p>
         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
           <h4 class="title">Vision</h4>
           <p class="description">A future free from plastic pollution</p>

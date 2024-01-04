@@ -114,22 +114,22 @@
   background-position: bottom right, left, right; }
 
 .service .service1:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-shredded-plastic.jpg'); }
+  background-image:  linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)),url('/media/images/services-trash-for-trade-shredded-plastic.jpg'); }
 
 .service .service2:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-plastic-pellets.jpg'); }
+  background-image: linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)), url('/media/images/services-trash-for-trade-plastic-pellets.jpg'); }
 
 .service .service3:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-machines.jpg'); }
+  background-image: linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)), url('/media/images/services-trash-for-trade-machines.jpg'); }
 
 .service .service4:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-construction-materials.jpg'); }
+  background-image: linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)), url('/media/images/services-trash-for-trade-construction-materials.jpg'); }
 
 .service .service5:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-furnitures.jpg'); }
+  background-image: linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)), url('/media/images/services-trash-for-trade-furnitures.jpg'); }
 
 .service :hover .service6:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-custom-designs.jpg'); }
+  background-image: linear-gradient(to right, rgb(30, 178, 107), rgb(30, 178, 107)), url('/media/images/services-trash-for-trade-custom-designs.jpg'); }
 
 .service .feature-body:hover h3.feature-titel {
   color: #fff;

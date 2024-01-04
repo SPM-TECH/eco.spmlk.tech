@@ -9,7 +9,7 @@
   <div class="features-main pb-5 pt-0 text-center">
     <div class="container pb-lg-3">
       <div class="row features">
-        <div class="col-lg-4 col-md-6 feature-grid">
+        <div class="col-lg-4 col-md-6 feature-grid a1">
           <a href="#url">
             <div class="feature-body service1">
               <div class="feature-info mt-4">
