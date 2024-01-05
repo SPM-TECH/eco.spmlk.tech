@@ -13,7 +13,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">A Future Free From Plastic Pollution</h2>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a>
+              <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Lets Fight Against Ocean Contamination</h2>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a>
+              <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Plastic Segregation Is The Key Step For Recycling</h2>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a>
+              <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Build Your Own Upcycling Machineries Locally</h2>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a>
+              <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Social Innovation To Social Enterprise</h2>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a>
+              <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
         </div>

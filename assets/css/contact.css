@@ -16,13 +16,13 @@
 
 .contact .info-box i {
   font-size: 32px;
-  color: #5c8b2a;
+  color: #1EB26B;
   border-radius: 50%;
   padding: 8px;
 }
 
 .contact .info-box h3 {
-  color: #5c8b2a;
+  color: #1EB26B;
   font-weight: 700;
   font-size: 18px;
   margin: 10px 0;
@@ -49,7 +49,7 @@
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5c8b2a;
+  border-color: #1EB26B;
 }
 
 .contact .php-email-form input {
@@ -61,7 +61,7 @@
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #5c8b2a;
+  background: #1EB26B;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -71,7 +71,7 @@
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #fff;
-  color: #5c8b2a;
+  color: #1EB26B;
 }
 
 @-webkit-keyframes animate-loading {

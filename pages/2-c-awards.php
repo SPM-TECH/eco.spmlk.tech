@@ -1,5 +1,5 @@
 <!-- ======= Awards Section ======= -->
-<div id="awards" class="awards section-bg">
+<div id="team" class="awards section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
               <h2>Awards</h2>
@@ -82,7 +82,104 @@
           </div>
         </div>
       </div>
-
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/iee-innovation-2020.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>IEEE Innovation</h4>
+              <span>2020</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/iee-innovation-2022.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>IEEE Innovation</h4>
+              <span>2022</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/slasscom.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>SLASSCOM</h4>
+              <span>2021</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/loves-tech.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>SHE LOVES TECH</h4>
+              <span>2021</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/ii.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>ii </h4>
+              <span>2020</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/startup.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Startup Srilanka</h4>
+              <span>2021</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media/images/awards-trash-for-trade/icta.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>ICTA</h4>
+              <span>2021</span>
+          </div>
+        </div>
+      </div>
     </div>
 
   </div>

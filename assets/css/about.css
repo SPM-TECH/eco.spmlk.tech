@@ -1,4 +1,4 @@
-/* About Us Section
+zz/* About Us Section
 --------------------------------*/
 #about {
   background: #fff;
@@ -58,7 +58,7 @@
 }
 
 #about .about-container .icon-box .icon i {
-  color: #5b8c2a;
+  color: #1EB26B;
   font-size: 24px;
 }
 
@@ -68,7 +68,7 @@
   font-size: 18px;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #444;
+  color: #555;
 }
 
 #about .about-container .icon-box .title a {
@@ -112,7 +112,7 @@
 #facts .counters1 span {
   font-size: 40px;
   display: block;
-  color: #5b8c2a;
+  color: #1EB26B;
 }
 
 #facts .counters1 p {
@@ -126,7 +126,7 @@
 #facts .counters2 span {
   font-size: 40px;
   display: block;
-  color: #5b8c2a;
+  color: #1EB26B;
 }
 
 #facts .counters2 p {
