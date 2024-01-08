@@ -87,7 +87,7 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/iee-innovation-2020.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.ieee.org/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -101,7 +101,7 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/iee-innovation-2022.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.ieee.org/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -115,7 +115,7 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/slasscom.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://old.slasscom.lk/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -129,11 +129,11 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/loves-tech.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.shelovestech.org/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>SHE LOVES TECH</h4>
+            <h4>She Loves Tech</h4>
               <span>2021</span>
           </div>
         </div>
@@ -143,11 +143,11 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/ii.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://islandclimateinitiative.com/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>ii </h4>
+            <h4>ICI</h4>
               <span>2020</span>
           </div>
         </div>
@@ -157,7 +157,7 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/startup.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://designing.lk/index.php/portfolio/startup/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -171,7 +171,7 @@
           <div class="member-img">
             <img src="../media/images/awards-trash-for-trade/icta.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.icta.lk/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
