@@ -37,7 +37,7 @@
 
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Upcycling machines</h3>
-                <p class="feature-text">Building machineries for upcycling processes as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
+                <p class="feature-text">Building machineries for upcycling processes such as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
                 <div class="hover">
                 </div>
               </div>
@@ -61,7 +61,7 @@
 
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Furniture</h3>
-                <p class="feature-text">The opportunity to manufacture chairs, stools, shelves and several more with the elegance and classic style to suit everyone’s interior designing preferences</p>
+                <p class="feature-text">The opportunity to manufacture chairs, stools, shelves, and several more with elegance and classic style to suit everyone’s interior design preferences</p>
                 </div>
             </div>
           </a>

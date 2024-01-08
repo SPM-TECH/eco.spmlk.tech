@@ -10,7 +10,7 @@
         <div class="box">
           <div class="icon"><i class='bx bx-water'></i></div>
           <h4 class="title">Marine Conservation</h4>
-          <p class="description">Reduce the plastic waste ending up in inland water bodies and ocean, thus preventing ocean pollution</p>
+          <p class="description">Reduce the plastic waste ending up in inland water bodies and oceans, thus preventing oceans pollution</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
@@ -44,7 +44,7 @@
         <div class="box">
           <div class="icon"><i class='bx bx-dollar-circle'></i></div>
           <h4 class="title">Upcycling Machinery Production</br></h4>
-          <p class="description">Machineries hand-built by the team along with local partners using easily-available raw materials</p>
+          <p class="description">Machineries hand-built by the team along with local partners using easily available raw materials</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">

@@ -85,9 +85,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/iee-innovation-2020.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ieee-2020.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="https://www.ieee.org/"><i class="fa fa-chrome"></i></a>
+              <a href="media/images/awards-trash-for-trade/ieee-2020.png"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -99,7 +99,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/iee-innovation-2022.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ieee-2022.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.ieee.org/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -113,7 +113,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/slasscom.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/slasscom.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://old.slasscom.lk/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -127,7 +127,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/loves-tech.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/loves-tech.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.shelovestech.org/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -141,7 +141,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/ii.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ici.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://islandclimateinitiative.com/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -155,7 +155,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/startup.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/stratup (1).png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://designing.lk/index.php/portfolio/startup/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -169,7 +169,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/icta.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/icta.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.icta.lk/"><i class="fa fa-chrome"></i></a>
             </div>
