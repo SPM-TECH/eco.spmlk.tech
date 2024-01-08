@@ -22,7 +22,7 @@
         <div class="carousel-item" data-interval="3000" style="background-image: url(../media/images/title-images-trash-for-trade/title-images-trash-for-trade-2.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lets Fight Against Ocean Contamination</h2>
+              <h2 class="animate__animated animate__fadeInDown">Let's Fight Against Ocean Contamination</h2>
               <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp">Join Us</a> -->
             </div>
           </div>
