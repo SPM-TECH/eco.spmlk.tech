@@ -10,7 +10,7 @@
     <div class="container pb-lg-3">
       <div class="row features">
         <div class="col-lg-4 col-md-6 feature-grid a1">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service1">
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Shredded Plastic</h3>
@@ -21,7 +21,7 @@
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service2">
 
               <div class="feature-info mt-4">
@@ -32,7 +32,7 @@
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service3">
 
               <div class="feature-info mt-4">
@@ -45,7 +45,7 @@
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service4">
 
               <div class="feature-info mt-4">
@@ -56,7 +56,7 @@
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service5">
 
               <div class="feature-info mt-4">
@@ -67,7 +67,7 @@
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service6">
 
               <div class="feature-info mt-4">
