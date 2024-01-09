@@ -36,7 +36,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
   }
 
   .light.cc_dialog button.cc_b_ok {
-    background-color: #5c8b2a;
+    background-color: #1EB26B;
     color: #FFF;
   }
 
@@ -57,7 +57,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
   }
 
   .light.cc_dialog .cc_dialog_headline {
-    color: #5c8b2a;
+    color: #1EB26B;
   }
 
   @media (max-width: 768px) {
