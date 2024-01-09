@@ -141,7 +141,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/ici.png" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ii.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://islandclimateinitiative.com/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -155,7 +155,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/stratup (1).png" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/startup.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://designing.lk/index.php/portfolio/startup/"><i class="fa fa-chrome"></i></a>
             </div>
