@@ -14,7 +14,7 @@
             <div class="feature-body service1">
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">local plastic collector empowerment</h3>
-                <p class="feature-text">We aim to Empowering local plastic collectors with small-scale upcycling machines and crucial infrastructure, we strive to enhance their efficiency in upcycling processes, fostering a sustainable environment and community development.
+                <p class="feature-text">We aim to empowering local plastic collectors with small-scale upcycling machines and crucial infrastructure, we strive to enhance their efficiency in upcycling processes, fostering a sustainable environment and community development.
                 </p>
               </div>
             </div>
@@ -44,6 +44,7 @@
             </div>
           </a>
         </div>
+        <br>
         <!-- <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url"> 
             <div class="feature-body service4">
