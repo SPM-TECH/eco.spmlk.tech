@@ -143,7 +143,7 @@ $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
     dots: true,
     loop: true,
     items: 1
-  });
+  },3000);
 
   // Init AOS
   function aos_init() {

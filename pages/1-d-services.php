@@ -86,7 +86,7 @@
 
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="testimonials section-bg">
-  <div class="container" data-aos="fade-up" data-animation-delay="10s">
+  <div class="container" data-aos="fade-up">
     <div class="section-title">
               <h2>Testimonials</h2>
     </div>

@@ -44,7 +44,7 @@
         </div>
 
         <div class="col-lg-6">
-          <form action="https://docs.google.com/forms/u/0/d/1DKDhfnziyYMUkpm81TkXN1GKQn_tGNMWbe9ph8G8YX8/prefill" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
+          <form action="https://docs.google.com/forms/d/1BBSbpRCcSVWHfHpw-6EtiFt4yZg3uaxrMcruNC0sAnI/prefill" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
             <div class="form-row">
               <div class="col-md-6 form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1713471508" required/>
