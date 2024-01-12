@@ -4,7 +4,7 @@
 
     <div class="section-title">
               <h2>Services</h2>
-              <h3>Our Products – Processed & Upcycled</h3>
+              <h3>Our projects</h3>
     </div>
   <div class="features-main pb-5 pt-0 text-center">
     <div class="container pb-lg-3">
@@ -13,8 +13,8 @@
           <!-- <a href="#url"> -->
             <div class="feature-body service1">
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Shredded Plastic</h3>
-                <p class="feature-text">Shredded Plastic is the reusable raw material derived from the collected plastic waste, used for manufacturing plastic containers, PET bottles, and PVC products
+                <h3 class="feature-titel mb-2">local plastic collector empowerment</h3>
+                <p class="feature-text">We aim to Empowering local plastic collectors with small-scale upcycling machines and crucial infrastructure, we strive to enhance their efficiency in upcycling processes, fostering a sustainable environment and community development.
                 </p>
               </div>
             </div>
@@ -25,8 +25,8 @@
             <div class="feature-body service2">
 
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Plastic Pellets</h3>
-                <p class="feature-text">Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
+                <h3 class="feature-titel mb-2">container-based upcycling lab</h3>
+                <p class="feature-text">Our initiative involves the development of container-based upcycling hubs. These hubs are equipped with specialized upcycling machines, creating an infrastructure that empowers local plastic collectors to efficiently and sustainably process plastic materials.</p>
               </div>
             </div>
           </a>
@@ -36,16 +36,16 @@
             <div class="feature-body service3">
 
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Upcycling machines</h3>
-                <p class="feature-text">Building machineries for upcycling processes such as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
+                <h3 class="feature-titel mb-2">large-scale industrial plant </h3>
+                <p class="feature-text">We're establishing a large-scale industrial upcycling plant to enhance local plastic collection efforts. This facility will incorporate advanced technology and infrastructure for efficient and sustainable upcycling processes.</p>
                 <div class="hover">
                 </div>
               </div>
             </div>
           </a>
         </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <!-- <a href="#url"> -->
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url"> 
             <div class="feature-body service4">
 
               <div class="feature-info mt-4">
@@ -54,9 +54,9 @@
               </div>
             </div>
           </a>
-        </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <!-- <a href="#url"> -->
+        </div> -->
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+           <a href="#url"> 
             <div class="feature-body service5">
 
               <div class="feature-info mt-4">
@@ -65,9 +65,9 @@
                 </div>
             </div>
           </a>
-        </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <!-- <a href="#url"> -->
+        </div> -->
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+           <a href="#url"> 
             <div class="feature-body service6">
 
               <div class="feature-info mt-4">
@@ -76,7 +76,7 @@
               </div>
             </div>
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@
 
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="testimonials section-bg">
-  <div class="container" data-aos="fade-up">
+  <div class="container" data-aos="fade-up" data-animation-delay="10s">
     <div class="section-title">
               <h2>Testimonials</h2>
     </div>

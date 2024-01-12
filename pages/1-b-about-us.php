@@ -78,7 +78,7 @@
 
     </div>
 
-    <div class="row counters2 justify-content-start">
+    <div class="row counters2 justify-content-center">
 
       <div class="col-lg-3 col-6 text-center">
         <span data-toggle="counter-up">60</span>
