@@ -94,7 +94,7 @@
     <div class="owl-carousel testimonials-carousel">
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-squarehub.png" class="testimonial-img" alt="">
         <h3>SquareHub</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -104,7 +104,7 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-undp.png" class="testimonial-img" alt="">
         <h3>UNDP Team</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
