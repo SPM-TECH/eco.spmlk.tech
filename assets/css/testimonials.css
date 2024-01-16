@@ -7,7 +7,7 @@
   background-position: center center;
   background-size: cover;
   position: relative;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .section-title{
@@ -37,7 +37,7 @@
   font-size: 14px;
   color: #666666;
   margin: 0 0 10px 0;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
@@ -62,7 +62,7 @@
   font-size: 14px;
   margin: 0 auto 10px auto;
   color: #666666;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .owl-nav, .testimonials .owl-dots {

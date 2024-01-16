@@ -8,7 +8,7 @@
 
   <div class="container">
     <div class="copyright">
-    <p>Copyright © 2023 SPM ECO </br> All Rights Reserved | Developed by <a href="https://spmlk.tech/"> SPM </a></p>
+    <p>Copyright © 2023 SPM Eco </br> All Rights Reserved | Developed by <a href="https://spmlk.tech/"> SPM </a></p>
       
     </div>
     <div class="credits">
