@@ -13,7 +13,7 @@ if(isset($_POST['submit'])){
 
 
 //Load Composer's autoloader
-$name = isset($_POST['username']) ? strip_tags(trim($_POST['username'])) : '';
+$name = isset($_POST['name']) ? strip_tags(trim($_POST['name'])) : '';
 $email = isset($_POST['email']) ? trim($_POST['email']) : '';
 $Subject = isset($_POST['subject']) ? 
 trim($_POST['subject']) : '';
@@ -39,7 +39,7 @@ try {
     $mail->addAddress('samila9926@gmail.com', 'SPM');     //Add a recipient
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject =$Subject ;
-    $mail->Body    = 'Here is the subject<br>'.$email.'<br>'.$Subject.'<br>'.$name;
+    $mail->Body    = 'SPM Eco Response<br>'.'Email: '.$email.'<br>'.'Subject: '.$Subject.'<br>'.'Name: '.$name;
     
 
     $mail->send();
