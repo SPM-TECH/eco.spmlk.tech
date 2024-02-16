@@ -27,16 +27,16 @@ try {
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->Host       = 'https://premium117.web-hosting.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'nkkiru16@gmail.com';                     //SMTP username
-    $mail->Password   = 'tyqlizsbfshckupw';                               //SMTP password
-    $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
-    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS
+    $mail->Username   = 'hi@eco.spmgroups.tech';                     //SMTP username
+    $mail->Password   = 'JC1nObUR+P9s';                               //SMTP password
+    $mail->SMTPSecure = '465';            //Enable implicit TLS encryption
+    $mail->Port       = 25;                                    //TCP port to connect to; use 587 if you have set SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS
 
     //Recipients
-    $mail->setFrom('nkkiru16@gmail.com', 'SPM Eco');
-    $mail->addAddress('samila9926@gmail.com', 'SPM');     //Add a recipient
+    $mail->setFrom('eco.spmgroups.tech', 'SPM Eco');
+    $mail->addAddress('eco.spmgroups.tech', 'SPM');     //Add a recipient
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject =$Subject ;
     $mail->Body    = 'SPM Eco Response<br>'.'Email: '.$email.'<br>'.'Subject: '.$Subject.'<br>'.'Name: '.$name;

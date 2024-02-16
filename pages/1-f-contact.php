@@ -44,26 +44,26 @@
         </div>
 
         <div class="col-lg-6">
-          <form action="mail.php" method="post" role="form" class="php-email-form" >
+          <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSezjDUkFDO30Y4bL4VdBPSY4V9wq2Jdr8TlCYzVvgTC5X6fCw/formResponse" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
             <div class="form-row">
               <div class="col-md-6 form-group">
-                <input type="text"  class="form-control" id="name" placeholder="Your Name" name="name" required/>
+                <input type="text"  class="form-control" id="name" placeholder="Your Name" name="entry.1020896740" required/>
                 <div class="validate"></div>
               </div>
               <div class="col-md-6 form-group">
-                <input type="email" class="form-control"  id="email" placeholder="Your Email" name="email" required/>
+                <input type="email" class="form-control"  id="email" placeholder="Your Email" name="entry.434617814" required/>
                 <div class="validate"></div>
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control"  id="subject" placeholder="Subject" name="subject" required/>
+              <input type="text" class="form-control"  id="subject" placeholder="Subject" name="entry.225885723" required/>
               <div class="validate"></div>
             </div>
             <div class="form-group">
-              <textarea class="form-control"  rows="5" name="message" placeholder="Message" required></textarea>
+              <textarea class="form-control"  rows="5" name="entry.388403681" placeholder="Message" required></textarea>
               <div class="validate"></div>
             </div>
-            <div class="text-center"><button name="submit" type="submit">Send Message</button></div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
           </form>
         </div>
 
