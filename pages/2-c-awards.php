@@ -11,7 +11,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\awards-trash-for-trade\awards-trash-for-trade-hackdev.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/hack-a-dev.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.youtube.com/watch?v=gAfO5RmOC8o"><i class="fa fa-chrome"></i></a>
             </div>
@@ -26,7 +26,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\awards-trash-for-trade\climathon-trash-for-trade.png" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/climathon.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://climathon.climate-kic.org/en/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -41,7 +41,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\awards-trash-for-trade\hackx-trash-for-trade.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/hackx.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://hackx.lk/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -56,7 +56,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\awards-trash-for-trade\nestle-trash-for-trade.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/nestle.png" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.nestle.com/"><i class="fa fa-chrome"></i></a>
             </div>
@@ -71,7 +71,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\awards-trash-for-trade\ubl-trash-for-trade.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/uva-wellasa.png" class="img-fluid" alt="">
             <div class="social">
               <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
             </div>
@@ -85,9 +85,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/iee-innovation-2020.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ieee-2020.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="media/images/awards-trash-for-trade/ieee-2020.png"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -99,9 +99,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/iee-innovation-2022.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ieee-2022.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.ieee.org/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -113,9 +113,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/slasscom.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/slasscom.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://old.slasscom.lk/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -127,13 +127,13 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/loves-tech.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/loves-tech.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.shelovestech.org/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>SHE LOVES TECH</h4>
+            <h4>She Loves Tech</h4>
               <span>2021</span>
           </div>
         </div>
@@ -141,13 +141,13 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/ii.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/ii.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://islandclimateinitiative.com/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>ii </h4>
+            <h4>ICI</h4>
               <span>2020</span>
           </div>
         </div>
@@ -155,9 +155,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/startup.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/startup.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://designing.lk/index.php/portfolio/startup/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -169,9 +169,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media/images/awards-trash-for-trade/icta.jpg" class="img-fluid" alt="">
+            <img src="../media/images/awards-trash-for-trade/icta.png" class="img-fluid" alt="">
             <div class="social">
-              <a href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html"><i class="fa fa-chrome"></i></a>
+              <a href="https://www.icta.lk/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">

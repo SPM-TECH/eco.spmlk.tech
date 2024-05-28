@@ -4,48 +4,49 @@
 
     <div class="section-title">
               <h2>Services</h2>
-              <h3>Our Products – Processed & Upcycled</h3>
+              <h3>Our projects</h3>
     </div>
   <div class="features-main pb-5 pt-0 text-center">
     <div class="container pb-lg-3">
       <div class="row features">
         <div class="col-lg-4 col-md-6 feature-grid a1">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service1">
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Shredded Plastic</h3>
-                <p class="feature-text">Shredded Plastic is the reusable raw material derived from the collected plastic waste, used for manufacturing plastic containers, PET bottles, and PVC products
+                <h3 class="feature-titel mb-2">local plastic collector empowerment</h3>
+                <p class="feature-text">We aim to empowering local plastic collectors with small-scale upcycling machines and crucial infrastructure, we strive to enhance their efficiency in upcycling processes, fostering a sustainable environment and community development.
                 </p>
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service2">
 
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Plastic Pellets</h3>
-                <p class="feature-text">Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
+                <h3 class="feature-titel mb-2">container-based upcycling lab</h3>
+                <p class="feature-text">Our initiative involves the development of container-based upcycling hubs. These hubs are equipped with specialized upcycling machines, creating an infrastructure that empowers local plastic collectors to efficiently and sustainably process plastic materials.</p>
               </div>
             </div>
           </a>
         </div>
         <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+          <!-- <a href="#url"> -->
             <div class="feature-body service3">
 
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-2">Upcycling machines</h3>
-                <p class="feature-text">Building machineries for upcycling processes as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
+                <h3 class="feature-titel mb-2">large-scale industrial plant </h3>
+                <p class="feature-text">We're establishing a large-scale industrial upcycling plant to enhance local plastic collection efforts. This facility will incorporate advanced technology and infrastructure for efficient and sustainable upcycling processes.</p>
                 <div class="hover">
                 </div>
               </div>
             </div>
           </a>
         </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+        <br>
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url"> 
             <div class="feature-body service4">
 
               <div class="feature-info mt-4">
@@ -54,20 +55,20 @@
               </div>
             </div>
           </a>
-        </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+        </div> -->
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+           <a href="#url"> 
             <div class="feature-body service5">
 
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Furniture</h3>
-                <p class="feature-text">The opportunity to manufacture chairs, stools, shelves and several more with the elegance and classic style to suit everyone’s interior designing preferences</p>
+                <p class="feature-text">The opportunity to manufacture chairs, stools, shelves, and several more with elegance and classic style to suit everyone’s interior design preferences</p>
                 </div>
             </div>
           </a>
-        </div>
-        <div class="col-lg-4 col-md-6 feature-grid">
-          <a href="#url">
+        </div> -->
+        <!-- <div class="col-lg-4 col-md-6 feature-grid">
+           <a href="#url"> 
             <div class="feature-body service6">
 
               <div class="feature-info mt-4">
@@ -76,7 +77,7 @@
               </div>
             </div>
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -93,7 +94,7 @@
     <div class="owl-carousel testimonials-carousel">
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-squarehub.png" class="testimonial-img" alt="">
         <h3>SquareHub</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -103,11 +104,11 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-undp.png" class="testimonial-img" alt="">
         <h3>UNDP Team</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-         SPM is one of the commited teams who got selected to the Incubation Support Phase of HackaDev National Youth Social Innovation Challenge 2019. Out of the 12 teams being incubated from the 2019 cohort, SPM brought a unique idea to save the planet while supporting the plastic recycling process. The team consists of a bunch of young individuals from Uva Wellassa University and a few active young innovators from Batticaloa. Despite of the challenge of different members coming from different areas of the country,  SPM sets an example for how a team can function together to contribute to the Sustainable Developement Goals as responsible youth. HackaDev programme of United Nations Development Programme is really proud ot see the progress of SPM throughout the last couple of months through the incubation programme, and wish them good luck to contribute more and more to the society through protecting the environmen
+         SPM is one of the commited teams who got selected to the Incubation Support Phase of HackaDev National Youth Social Innovation Challenge 2019. Out of the 12 teams being incubated from the 2019 cohort, SPM brought a unique idea to save the planet while supporting the plastic recycling process. The team consists of a bunch of young individuals from Uva Wellassa University and a few active young innovators from Batticaloa. Despite of the challenge of different members coming from different areas of the country,  SPM sets an example for how a team can function together to contribute to the Sustainable Developement Goals as responsible youth. HackaDev programme of United Nations Development Programme is really proud ot see the progress of SPM throughout the last couple of months through the incubation programme, and wish them good luck to contribute more and more to the society through protecting the environment.
           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
         </p>
       </div>

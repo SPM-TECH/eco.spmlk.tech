@@ -7,7 +7,7 @@
   background-position: center center;
   background-size: cover;
   position: relative;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .section-title{
@@ -37,12 +37,12 @@
   font-size: 14px;
   color: #666666;
   margin: 0 0 10px 0;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
   color: #1EB26B;
-  font-size: 26px;
+  /* font-size: 26px; */
 }
 
 .testimonials .testimonial-item .quote-icon-left {
@@ -55,14 +55,14 @@
   display: inline-block;
   right: -5px;
   position: relative;
-  top: 10px;
+  /* top: 10px; */
 }
 
 .testimonials .testimonial-item p {
   font-size: 14px;
   margin: 0 auto 10px auto;
   color: #666666;
-  font-family: "Lora";
+  font-family: "poppins";
 }
 
 .testimonials .owl-nav, .testimonials .owl-dots {
@@ -150,7 +150,7 @@
   font-size: 18px;
   margin-bottom: 15px;
   text-transform: uppercase;
-  color: #111;
+  color: #555;
  }
 
 .service p.feature-text {
